@@ -1,7 +1,7 @@
 {
   "main.css": "/BM_COLLECTIONS/static/css/main.984f3bdf.chunk.css",
-  "main.js": "/BM_COLLECTIONS/static/js/main.ddf7c195.chunk.js",
-  "main.js.map": "/BM_COLLECTIONS/static/js/main.ddf7c195.chunk.js.map",
+  "main.js": "/BM_COLLECTIONS/static/js/main.194d1fd1.chunk.js",
+  "main.js.map": "/BM_COLLECTIONS/static/js/main.194d1fd1.chunk.js.map",
   "static/css/1.d1ffde31.chunk.css": "/BM_COLLECTIONS/static/css/1.d1ffde31.chunk.css",
   "static/js/1.d7fe49f3.chunk.js": "/BM_COLLECTIONS/static/js/1.d7fe49f3.chunk.js",
   "static/js/1.d7fe49f3.chunk.js.map": "/BM_COLLECTIONS/static/js/1.d7fe49f3.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.984f3bdf.chunk.css.map": "/BM_COLLECTIONS/static/css/main.984f3bdf.chunk.css.map",
   "static/css/1.d1ffde31.chunk.css.map": "/BM_COLLECTIONS/static/css/1.d1ffde31.chunk.css.map",
   "index.html": "/BM_COLLECTIONS/index.html",
-  "precache-manifest.3ad8e0a287826bc848a36b8211fc9308.js": "/BM_COLLECTIONS/precache-manifest.3ad8e0a287826bc848a36b8211fc9308.js",
+  "precache-manifest.35484a67fe424921b4501ffc7f184968.js": "/BM_COLLECTIONS/precache-manifest.35484a67fe424921b4501ffc7f184968.js",
   "service-worker.js": "/BM_COLLECTIONS/service-worker.js"
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ddf7c19517bdf5366e4a",
+    "revision": "194d1fd1839ef59b239f",
     "url": "/BM_COLLECTIONS/static/css/main.984f3bdf.chunk.css"
   },
   {
-    "revision": "ddf7c19517bdf5366e4a",
-    "url": "/BM_COLLECTIONS/static/js/main.ddf7c195.chunk.js"
+    "revision": "194d1fd1839ef59b239f",
+    "url": "/BM_COLLECTIONS/static/js/main.194d1fd1.chunk.js"
   },
   {
     "revision": "d7fe49f3b3a8911f950e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/BM_COLLECTIONS/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "69c86595d8cd3483413b34edb56e3ec5",
+    "revision": "31f41858f219f769e2b762b2c631a7e4",
     "url": "/BM_COLLECTIONS/index.html"
   }
 ];
