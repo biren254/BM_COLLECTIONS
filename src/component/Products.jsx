@@ -55,11 +55,11 @@ const Products = () => {
       <>
         <div className="buttons d-flex justify-content-center mb-5 pb-5">
          
-          <button className="btn btn btn-outline-warning text-dark  me-2 " onClick={() =>setFilter(data)}>All</button>
-          <button className="btn btn btn-outline-warning text-dark  me-2 " onClick={() =>filterProduct("men's clothing")}>Men's Clothing</button>
-          <button className="btn btn btn-outline-warning text-dark  me-2 " onClick={() =>filterProduct("women's clothing")}>Women's Clothing</button>       
-          <button className="btn btn btn-outline-warning text-dark  me-2 " onClick={() =>filterProduct("jewelery")}>Jewelery</button>
-          <button className="btn btn btn-outline-warning text-dark  me-2 " onClick={() =>filterProduct("electronics")}> Electronics</button>
+          <button className="btn btn-outline-success text-dark  me-2 " onClick={() =>setFilter(data)}>All</button>
+          <button className="btn btn-outline-success text-dark  me-2 " onClick={() =>filterProduct("men's clothing")}>Men's Clothing</button>
+          <button className="btn btn-outline-success text-dark  me-2 " onClick={() =>filterProduct("women's clothing")}>Women's Clothing</button>       
+          <button className="btn btn-outline-success text-dark  me-2 " onClick={() =>filterProduct("jewelery")}>Jewelery</button>
+          <button className="btn btn-outline-success text-dark  me-2 " onClick={() =>filterProduct("electronics")}> Electronics</button>
     
         </div>
         {filter.map((Product) => {
@@ -72,7 +72,7 @@ const Products = () => {
                   <div className="card-body">
                     <h5 className="card-title mb-0">{Product.title.substring(0,12)}...</h5>
                     <p className="card-text fw-bold">${Product.price}</p>
-                    <NavLink to={`/products/${Product.id}`} className="btn btn-outline-warning fw-bold">Buy Now</NavLink>
+                    <NavLink to={`/products/${Product.id}`} className="btn btn-outline-success fw-bold">Buy Now</NavLink>
                   </div>
                 </div>
               </div>
