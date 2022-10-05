@@ -10,7 +10,7 @@ front-end: React JS, Redux, bootstrap
 
 - [x] Hooks
 - [x] Redux
-- [x] Api
+- [x] API
 
 ## Future Features
 
